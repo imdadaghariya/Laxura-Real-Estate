@@ -1,6 +1,8 @@
 <?php
 
 namespace App\Http\Controllers\Agent;
+//
+//
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
